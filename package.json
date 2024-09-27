@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "name": "websocket",
+  "version": "1.0.0",
+  "main": "wsserver.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node wsserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
